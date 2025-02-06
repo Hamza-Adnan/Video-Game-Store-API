@@ -26,7 +26,7 @@ videogame-store-api
 ## Setup and Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/videogame-store-api.git
+git clone https://github.com/Hamza-Adnan/Video-Game-Store-API.git
 cd videogame-store-api
 ```
 2. Create a virtual environment:
